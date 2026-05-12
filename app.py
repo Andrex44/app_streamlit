@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title('Prima app streamlit')
+st.title('Seconda app streamlit')
 
 if st.button('clicca'):
     st.balloons()
